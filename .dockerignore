@@ -1,0 +1,12 @@
+.git/
+.github/
+data/
+*.db
+*.db-journal
+.env
+.env.local
+.DS_Store
+.claude/
+node_modules/
+**/node_modules/
+README.md
